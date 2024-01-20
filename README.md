@@ -1,17 +1,18 @@
 ### Olá, Sou desenvolvedor Back-end
 
-<div style = "display: inline_block" >
+<div>
   <a href="https://github.com/Nhoid">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nhoid&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nhoid&layout=compact&langs_count=6&theme=dracula"/>
 </div>
+    
 <div style = "display: inline_block">
-  <img align="center" style="align: center; witdh: 40px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" style="align: center; witdh: 40px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" style="align: center; witdh: 40px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    
-  <img align="center" style="align: center; witdh: 40px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" style="align: center; witdh: 40px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" style="align: center; witdh: 40px; height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+  <img align="center" style="align: center; witdh: 80px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" style="align: center; witdh: 80px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" style="align: center; witdh: 80px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    
+  <img align="center" style="align: center; witdh: 80px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" style="align: center; witdh: 80px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" style="align: center; witdh: 80px; height: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
           
           
           
