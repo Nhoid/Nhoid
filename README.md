@@ -1,23 +1,23 @@
-### Olá, Sou desenvolvedor Back-end
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=4FA9FF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Back-end+Development" alt="Nhoid" />
+</h1>
 
-<div>
-  <a href="https://github.com/Nhoid">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nhoid&layout=compact&langs_count=6&theme=dracula"/>
+<div style="padding-left: 20px;">
+  <h2>About Me</h2>
+  <p>Hello! I'm a programming student with a focus on back-end development, primarily using Java Spring. I have knowledge in some other languages such as C and JavaScript. I'm open to projects and looking forward to contributing to exciting developments.</p>
 </div>
 
 
-## 
+##
 
-    
-<div style="display: inline-block;">
-  <img align="center" width="80" height="60" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" width="80" height="60" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" width="80" height="60" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" width="80" height="60" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" width="80" height="60" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" width="80" height="60" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+<div style="display: inline-block;" align="center">
+      <img width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+      <img width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+      <img width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+      <img width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+      <img width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+      <img width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
-
 
 ##
      
