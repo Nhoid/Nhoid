@@ -8,7 +8,6 @@
 </div>
 
 
-##
 
 <div style="display: inline-block;" align="center">
       <img width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
